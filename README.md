@@ -32,3 +32,7 @@ The work reflects a synthesis of academic research and real-world practice, emph
 This repository represents an applied framework intended for reference, study, and professional discussion. It is not a product or a ready-to-deploy solution, but rather a conceptual and practical guide derived from applied research and professional experience.
 The content is provided for educational and advisory purposes. Any implementation should be adapted to the specific technical, regulatory, and institutional context of the target organization.
 The framework does not disclose sensitive information and does not represent any specific government system or deployment.
+## Professional and Conceptual Basis
+
+This framework is based on applied professional experience in government and public-sector telecommunications environments. It reflects practical insights gained from working within regulated and mission-critical contexts, where reliability, security, and governance alignment are essential.
+The repository presents a conceptual and structured perspective intended to support discussion, planning, and advisory activities, without representing published academic research or disclosing implementation-specific technical details.

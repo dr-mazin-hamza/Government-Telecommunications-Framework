@@ -1,3 +1,13 @@
+## Framework Methodology
+
+The framework follows an applied, structured methodology tailored for government and public-sector environments. It combines engineering best practices with governance and performance management considerations. The methodology emphasizes:
+
+- Assessment of existing telecommunications and infrastructure environments  
+- Identification of security, resilience, and operational requirements  
+- Design of secure and scalable communication architectures  
+- Alignment with governance models and regulatory constraints  
+- Integration of performance measurement and KPI-based evaluation  
+- Support for data-driven decision-making and continuous improvement
 # Government Telecommunications Framework
 
 Applied framework for government telecommunications, critical infrastructure connectivity, and digital government enablement.
